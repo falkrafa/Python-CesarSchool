@@ -1,6 +1,6 @@
 import os
 os.system("cls")
-
+# teste
 print("Teste de anagrama.")
 print()
 
